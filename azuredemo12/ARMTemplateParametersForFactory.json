@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "azuredemo12"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
