@@ -1,0 +1,9 @@
+{
+	"name": "azuredemo12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b1ba6eb-4d5f-4938-80a2-faacf4526823",
+		"tenantId": "c961c765-b6a4-4d09-ba7e-d008e137f266"
+	}
+}
